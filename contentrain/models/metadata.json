@@ -126,5 +126,14 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "ssss",
+    "description": "aaaaaa",
+    "modelId": "ssss",
+    "path": "content/blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
   }
 ]

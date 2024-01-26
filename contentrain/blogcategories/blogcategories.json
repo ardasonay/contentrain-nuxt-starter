@@ -1,5 +1,13 @@
 [
   {
+    "ID": "07bc89f03da5",
+    "createdAt": "Fri Jan 26 2024 15:13:10 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Jan 26 2024 15:13:10 GMT+0300 (GMT+03:00)",
+    "name": "deneme",
+    "slug": "betatestingof2.0",
+    "status": "draft"
+  },
+  {
     "ID": "fdf1dd91a0b9",
     "name": "Product",
     "slug": "product",
